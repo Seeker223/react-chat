@@ -1,6 +1,6 @@
 {
   "homepage": "http://Seeker223.github.io/react-chat",
-  "name": "client",
+  "name": "react-chat",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
